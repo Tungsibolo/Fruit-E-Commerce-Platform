@@ -1,0 +1,4 @@
+module.exports = {
+  ALGOLIA_APP_ID: "I4GVOQODEC",
+  ALGOLIA_API_KEY: "e30d77427a25825be8b9432dddcf106f",
+};
